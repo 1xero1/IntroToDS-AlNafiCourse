@@ -1,0 +1,7 @@
+#Comment/Un-Comment Multiple Lines
+CTRL+ 4
+CTRL+ 1
+
+#Run Current Cell
+F9
+
